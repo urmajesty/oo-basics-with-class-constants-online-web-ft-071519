@@ -12,9 +12,9 @@ class Shoe
     self.condition = "new"
     puts "Your shoe is as good as new!"
   end
-end
-end
   
 def brand= (brand)
   @brand= brand
   BRAND << brand
+end
+end
