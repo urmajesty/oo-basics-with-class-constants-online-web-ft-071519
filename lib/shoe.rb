@@ -1,4 +1,4 @@
-require "pry"
+
 class Shoe
   Def initialize(brand)
     @brand= brand
