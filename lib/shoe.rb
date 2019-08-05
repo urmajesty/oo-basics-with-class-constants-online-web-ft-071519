@@ -13,3 +13,4 @@ class Shoe
   end
   
 end
+Shoe.new(shoes)
