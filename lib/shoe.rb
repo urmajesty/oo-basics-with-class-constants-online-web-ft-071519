@@ -12,7 +12,7 @@ class Shoe
   def brand= (brand)
     @brand= brand
     
-    binding.pry
+   
     
   BRANDS << brand
 end
@@ -21,5 +21,5 @@ end
     self.condition = "new"
     puts "Your shoe is as good as new!"
   end
-
+end
 end
